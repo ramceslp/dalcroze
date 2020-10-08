@@ -1,0 +1,2 @@
+# MayaClick
+app MayaClick
